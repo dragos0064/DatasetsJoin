@@ -1,4 +1,5 @@
-#CSV Merging and Cleaning Program#
+# **CSV Merging and Cleaning Program**
+
 
 This program is designed to process, merge, and clean data from three input CSV files: website_dataset.csv, facebook_dataset.csv, and google_dataset.csv. It prioritizes data from website_dataset.csv during merging while combining relevant information from the other two files. The final output is a well-structured, cleaned, and formatted CSV file named final_merged_dataset_cleaned.csv.
 
